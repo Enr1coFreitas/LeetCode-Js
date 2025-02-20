@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +39,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Enr1coFreitas/LeetCode-Js/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
